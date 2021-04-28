@@ -1,14 +1,23 @@
 #banana cake 
 ##Ingredients
 1 ½ cups all-purpose flour
+
 ⅔ cup white sugar
+
 1 ½ teaspoons baking powder
+
 ¼ teaspoon salt
+
 1 cup mashed bananas
+
 1 egg
+
 ½ cup unsalted butter, melted
+
 ¼ cup milk
+
 ¾ cup semisweet chocolate chips
+
 ##Reciepe
 Step 1
 Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.
